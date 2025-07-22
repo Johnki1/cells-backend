@@ -1,4 +1,4 @@
-package com.cfe.cells;
+package com.cfeg.cells;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

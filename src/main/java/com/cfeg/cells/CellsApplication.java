@@ -1,4 +1,4 @@
-package com.cfe.cells;
+package com.cfeg.cells;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
